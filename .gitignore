@@ -1,0 +1,32 @@
+# Firebase
+GoogleService-Info.plist
+firebase-admin-key.json
+service-account-key.json
+
+# iOS
+Pods/
+*.xcworkspace
+Podfile.lock
+*.xcuserdata
+*.xcuserdatad
+DerivedData/
+build/
+
+# Node.js
+node_modules/
+.env
+npm-debug.log*
+
+# macOS
+.DS_Store
+
+# Xcode
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xccheckout
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
